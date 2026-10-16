@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+my_model/
+*.json
